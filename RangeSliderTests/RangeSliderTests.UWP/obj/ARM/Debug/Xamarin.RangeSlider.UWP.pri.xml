@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Xamarin.RangeSlider.UWP" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Xamarin.RangeSlider.UWP">
+				<NamedResource name="RangeSliderControl.xbf" uri="ms-resource://Xamarin.RangeSlider.UWP/Files/Xamarin.RangeSlider.UWP/RangeSliderControl.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Xamarin.RangeSlider.UWP.xr.xml" uri="ms-resource://Xamarin.RangeSlider.UWP/Files/Xamarin.RangeSlider.UWP/Xamarin.RangeSlider.UWP.xr.xml">
+					<Candidate type="Path">
+						<Value>Xamarin.RangeSlider.UWP\Xamarin.RangeSlider.UWP.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

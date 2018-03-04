@@ -1,0 +1,10 @@
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\bin\Debug\netstandard2.0\RangeSliderTests.deps.json
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\bin\Debug\netstandard2.0\RangeSliderTests.dll
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.App.xaml.g.cs
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.AssemblyInfoInputs.cache
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.AssemblyInfo.cs
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\bin\Debug\netstandard2.0\RangeSliderTests.pdb
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.dll
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests\obj\Debug\netstandard2.0\RangeSliderTests.pdb

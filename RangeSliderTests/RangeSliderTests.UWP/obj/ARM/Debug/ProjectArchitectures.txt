@@ -1,0 +1,1 @@
+C:\PROGRAMMING\GITHUB\HalkarRangeSliderTests\RangeSliderTests\RangeSliderTests\RangeSliderTests.UWP\RangeSliderTests.UWP.csproj;arm
