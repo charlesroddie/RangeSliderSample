@@ -17,8 +17,8 @@ namespace RangeSliderTests
                 HorizontalOptions = LayoutOptions.FillAndExpand,
                 MinimumValue = 0.0F,
                 MaximumValue = 10.0F,
-                LowerValue = 0.0F,
-                MinThumbHidden = true
+                UpperValue = 5.0F,
+                MaxThumbHidden = true
             };
 
             var bv = new BoxView
